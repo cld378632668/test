@@ -1,0 +1,4 @@
+FTPUtils
+FileTree
+
+自动根据import后面的包名 向pom中添加dependency

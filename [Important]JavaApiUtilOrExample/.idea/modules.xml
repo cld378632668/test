@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaUtil.iml" filepath="$PROJECT_DIR$/JavaUtil.iml" />
+      <module fileurl="file://G:/MyCode/SpeechRecognize/SpeechRecognize_AudioFileToText_SDK_Demo/SpeechRecognize_AudioFileToText_SDK_Demo.iml" filepath="G:/MyCode/SpeechRecognize/SpeechRecognize_AudioFileToText_SDK_Demo/SpeechRecognize_AudioFileToText_SDK_Demo.iml" />
+      <module fileurl="file://G:/xmu_WeiboCrawler/trunk/WeiboCrawler2.2/WeiboCrawler2.2.iml" filepath="G:/xmu_WeiboCrawler/trunk/WeiboCrawler2.2/WeiboCrawler2.2.iml" />
+      <module fileurl="file://G:/[Important]python_log_parse/[Important]python_log_parse.iml" filepath="G:/[Important]python_log_parse/[Important]python_log_parse.iml" />
+      <module fileurl="file://G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/binding-parent/binding-parent.iml" filepath="G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/binding-parent/binding-parent.iml" />
+      <module fileurl="file://G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/core/core.iml" filepath="G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/core/core.iml" />
+      <module fileurl="file://G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/binding-parent/datastore-specific-descriptor/datastore-specific-descriptor.iml" filepath="G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/binding-parent/datastore-specific-descriptor/datastore-specific-descriptor.iml" />
+      <module fileurl="file://G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/rocksdb/rocksdb-binding.iml" filepath="G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/rocksdb/rocksdb-binding.iml" />
+      <module fileurl="file://G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/root.iml" filepath="G:/1-RocksDB/machine8-home-compaction/YCSB-rocksdb-only/root.iml" />
+      <module fileurl="file://G:/wcs-java-sdk/wcs-java-sdk.iml" filepath="G:/wcs-java-sdk/wcs-java-sdk.iml" />
+    </modules>
+  </component>
+</project>
